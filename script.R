@@ -1,5 +1,6 @@
 #pipe into github repo
 library(usethis)
+use_git_config(user.name="jalva459", user.email="jalvarez062001@gmail.com")
 use_git()
 
 #install packages and load libraries that you will work with 

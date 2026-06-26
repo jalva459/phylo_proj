@@ -1,3 +1,7 @@
+#pipe into github repo
+library(usethis)
+use_git()
+
 #install packages and load libraries that you will work with 
 install.packages(picante)
 library(picante)
